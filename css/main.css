@@ -136,7 +136,7 @@ body {
 }
 .landing .text {
   color: var(--main-color);
-  width: 500px;
+  width: 80%;
 }
 .animated img {
   transition: 0.5s;
